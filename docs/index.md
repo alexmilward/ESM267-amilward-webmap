@@ -8,9 +8,9 @@ The map below is shows the Madera groundwater subbasin according to the Californ
 
 [Flood Forward](https://floodforward.wixsite.com/website), a Bren Group Project for the 2020-2021 academic year, looks to build off of the Recharge for Resilience model and examine how recharging in river system floodplains may help to 1.) reduce local flood risk and 2.) enhance floodplain and riparian habitat.  As a preliminary analysis, Flood Forward used the Recharge for Reslience tool to understand if recharge in river adjacent lands (a placeholder for floodplains) is an effective recharge method.  The map below shows:
 
--Recharge Location Preferences - green color gradient on the map shows priority recharge locations with the following weighted variables: 90% proximity to groundwater dependent ecosystems, 10% proximity to dry groundwater wells.
--Major Rivers and Streams - blue polylines represent rivers, streams, and channels in the area. Areas adjacent to these lines indicate a preliminary delineation of floodplains.
--Madera Groundwater Subbasin - the red polygon shows the boundary of the Madera subbasin, located in California's San Joaquin Valley.
+- Recharge Location Preferences - green color gradient on the map shows priority recharge locations with the following weighted variables: 90% proximity to groundwater dependent ecosystems, 10% proximity to dry groundwater wells.
+- Major Rivers and Streams - blue polylines represent rivers, streams, and channels in the area. Areas adjacent to these lines indicate a preliminary delineation of floodplains.
+- Madera Groundwater Subbasin - the red polygon shows the boundary of the Madera subbasin, located in California's San Joaquin Valley.
 
 Early visual analysis shows the potential for river adjacent lands to be suitable for recharge. 
 
