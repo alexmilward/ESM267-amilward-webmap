@@ -1,7 +1,7 @@
 ESM 267 Webmap Assignment
 =========================
-## Alex Milward
-### November 11, 2020
+### Alex Milward
+#### November 11, 2020
 
 Some text here to give context to what is being shown
 
